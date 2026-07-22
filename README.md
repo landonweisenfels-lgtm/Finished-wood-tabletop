@@ -1,2 +1,2 @@
 # Finished-wood-tabletop
-finished wood tabletop for the top of my cabinet that my 3D printer sits on in order to prevent warping and shaking during the 3D printing process.
+Finished wood tabletop for the top of my cabinet that my 3D printer sits on to prevent warping and shaking during the 3D printing process. This project was a way to solve a very big problem that I was having during the printing process; the printer was shaking because of the axis movement. This caused uneven layer lines and bigger prints to fail. This project solved this issue and overall improved the 3D printing process by giving me a better place to work and a way to stabilize the printer.
